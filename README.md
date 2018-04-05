@@ -1,5 +1,6 @@
  coursera-getting-and-cleaning-data-project
-是獲取和清潔數據Coursera課程的課程項目。R腳本run_analysis.R執行以下操作：
+ 是獲取和清潔數據Coursera課程的課程項目。R腳本run_analysis.R執行以下操作：
+
 
 如果數據集不存在於工作目錄中，請下載該數據集
 加載活動和功能信息
