@@ -1,4 +1,4 @@
-代碼簿
+code book
 -------------------------
 This code book summarizes the resulting data fields in tidy.txt.
 ----------
