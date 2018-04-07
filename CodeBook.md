@@ -171,7 +171,7 @@ fBodyBodyGyroJerkMagMeanFreq
 
 
 
-活動標籤
+Activity Labels
 -----
 WALKING（(value 1）：subject was walking during the test
 --------
