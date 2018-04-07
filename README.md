@@ -1,20 +1,20 @@
 coursera-getting-and-cleaning-data-project
 ---
-1.是獲取和清潔數據Coursera課程的課程項目。R腳本run_analysis.R執行以下操作： 
+1.Download the dataset. 
 -----------
-2.如果數據集不存在於工作目錄中，請下載該數據集 
+2.if it does not already exist in the working directory.
 -------------
-3.加載活動和功能信息  
+3.Load the activity and feature info.
 ----------------
-4.加載訓練和測試數據集，只保留反映平均值或標準偏差的列
+4.Loads both the training and test datasets, keeping only those columns which reflect a mean or standard deviation.
 ------------
-5.加載每個數據集的活動和主題數據，並將這些列與數據集合併
+5.Loads the activity and subject data for each dataset, and merges those columns with the dataset.
 ---------
-6.合併兩個數據集
+6.Merges the two datasets.
 ---------
-7.將列activity和subject列轉換為因子
+7.Converts the activity and subject columns into factors.
 ---------
-8.創建一個整潔的數據集，其中包含每個主題和活動對的每個變量的平均值（平均值）
+8.Creates a tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.
 -----------
-9.最終結果顯示在文件中tidy.txt
+9.The end result is shown in the file tidy.txt.
 -------
