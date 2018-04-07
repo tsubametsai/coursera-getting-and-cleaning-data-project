@@ -1,14 +1,15 @@
 代碼簿
 -------------------------
-這本代碼手冊總結了所得到的數據字段tidy.txt。
+This code book summarizes the resulting data fields in tidy.txt.
 ----------
-身份標識
+Identifiers
 ---
-subject - 測試主題的ID
+subject - The ID of the test subject
 -----------
-activity - 進行相應測量時執行的活動類型
+activity - The type of activity performed when the corresponding measurements were taken
 -----------
-測量
+Measurements
+-----------------
 tBodyAccMeanX
 -------------------------
 tBodyAccMeanY
@@ -172,15 +173,15 @@ fBodyBodyGyroJerkMagMeanFreq
 
 活動標籤
 -----
-WALKING（數值1）：受試者在測試期間行走
+WALKING（(value 1）：subject was walking during the test
 --------
-WALKING_UPSTAIRS（數值2）：在測試過程中，受試者正爬上樓梯
+WALKING_UPSTAIRS（(value 2）：subject was walking up a staircase during the test
 --------
-WALKING_DOWNSTAIRS（數值3）：在測試過程中，受試者正走下樓梯
+WALKING_DOWNSTAIRS（(value 3）：subject was walking down a staircase during the test
 ---------
-SITTING（數值4）：受試者在考試期間坐著
+SITTING（(value 4）：subject was sitting during the test
 --------
-STANDING（數值5）：測試期間受試者站立
+STANDING（(value 5）：subject was standing during the test
 -------
-LAYING（數值6）：在測試過程中主體被放下
+LAYING（(value 6）：subject was laying down during the test
 ---------
